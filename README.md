@@ -1,5 +1,10 @@
 An Application which is used to track total number of people infected,recovered ,died globally and country wise due to Covid using React Framework
 
+
+Deployed Code Link : https://sreevathsan98.github.io/Corona_Tracker/
+
+Feel free to check!!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
